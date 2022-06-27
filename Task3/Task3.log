@@ -1,0 +1,21 @@
+2022-06-24 12:07:32,878 INFO  Employee.CreateEmployee  - Driver is connected
+  2022-06-24 12:07:44,732 WARN  Employee.CreateEmployee  - Enter the Correct option
+  2022-06-24 12:08:03,048 INFO  Employee.CreateEmployee  - Driver is connected
+  2022-06-24 12:08:15,625 INFO  Employee.CreateEmployee  - deleted the details
+  2022-06-24 12:08:55,734 INFO  Employee.CreateEmployee  - deleted the details
+  2022-06-24 12:11:28,537 INFO  Employee.CreateEmployee  - Driver is connected
+  2022-06-24 12:12:05,675 INFO  Employee.CreateEmployee  - Successfully Inserted
+  2022-06-24 12:12:17,754 INFO  Employee.CreateEmployee  - Successfully Inserted
+  2022-06-24 12:12:17,759 INFO  Employee.CreateEmployee  - Create method is called
+  2022-06-24 12:20:24,698 INFO  Employee.CreateEmployee  - Driver is connected
+  2022-06-24 12:20:39,095 INFO  Employee.CreateEmployee  - Sucessfully modify the details
+  2022-06-24 12:21:05,175 INFO  Employee.CreateEmployee  - Sucessfully modify the details
+  2022-06-24 12:21:05,182 INFO  Employee.CreateEmployee  - Modify method is called
+  2022-06-24 12:23:18,634 INFO  Employee.CreateEmployee  - Driver is connected
+  2022-06-24 12:23:28,017 INFO  Employee.CreateEmployee  - Sucessfully modify the details
+  2022-06-24 12:23:35,796 INFO  Employee.CreateEmployee  - Sucessfully modify the details
+  2022-06-24 12:23:35,815 INFO  Employee.CreateEmployee  - Modify method is called
+  2022-06-27 12:20:42,629 INFO  Employee.Function  - Program is started
+  2022-06-27 12:21:04,583 INFO  Employee.ListEmployee  - Driver is connected
+  2022-06-27 12:21:04,603 INFO  Employee.ListEmployee  - list of employee is display
+  
